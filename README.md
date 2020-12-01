@@ -43,3 +43,15 @@ A security group is a set of firewall rules that control the traffic for your in
 
 ## Step 9: Review Instance Launch
 Please review your instance launch details. You can go back to edit changes for each section. Click Launch to assign a key pair to your instance and complete the launch process.
+
+## WhitePapers
+- AWS Pricing Overview
+- Overview of AWS
+- AWS Best practice Whitepaper
+- Total (Non) Cost of Ownership of the Cloud)(TCO) of Cloud
+- AWS Well Archicted Framework
+
+Rereference: 
+https://docs.aws.amazon.com/efs/latest/ug/gs-step-one-create-ec2-resources.html
+https://d0.awsstatic.com/whitepapers/aws-overview.pdf
+https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
