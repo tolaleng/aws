@@ -1,8 +1,9 @@
 # AWS Cloud Services - Getting Started with AWS
 To host the project/website on amazon aws web service for within minutes, use the following quick and easy steps:
 
-### Step 1: Create/Login to the aws console
-### Step 2: Choose Launch Instance
+<!-- toc -->
+- Step 1: Create/Login to the aws console
+#### Step 2: Choose Launch Instance
 ### Step 3: Choose AIM (Amazon Machine Image)
 ### Step 4: Choose EC2 Instance Types
 ### Step 5: Configure Instance Details
@@ -13,7 +14,7 @@ To host the project/website on amazon aws web service for within minutes, use th
 ### Step 10: Create Key-Pair For Intance Access
 ### Step 11: Type Ec2 Instance Public Ip On Browser
 ### Step 12: Connect Instance 
-
+<!-- tocstop -->
 
 ## Step 1: Login to the aws console
 Use this link https://console.aws.amazon.com/ec2/ to login in your aws console account. If you have not registered with amazon aws. You can also click this link and create your amazon aws account for free.
