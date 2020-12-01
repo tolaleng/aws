@@ -44,6 +44,23 @@ A security group is a set of firewall rules that control the traffic for your in
 ## Step 9: Review Instance Launch
 Please review your instance launch details. You can go back to edit changes for each section. Click Launch to assign a key pair to your instance and complete the launch process.
 
+## General Guides
+AWS Guides:
+- Analyzing Big Data https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-gs.html
+- Working with the AWS Management Console  http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html
+- Deploying a Web App Using Elastic Beanstalk http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html
+- Hosting a Web App http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html
+- Hosting a .NET Web App http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html
+- Hosting a Static Website http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html
+- Quick Start Deployment Guides https://aws.amazon.com/documentation/quickstart/
+
+## Documentation
+- Documentations https://aws.amazon.com/documentation/
+- AWS Billing and Cost Management https://aws.amazon.com/documentation/account-billing/
+- AWS Marketplace https://aws.amazon.com/documentation/marketplace/
+- AWS Support https://aws.amazon.com/documentation/aws-support/
+- AWS General Reference http://docs.aws.amazon.com/general/latest/gr/
+- AWS Glossary http://docs.aws.amazon.com/general/latest/gr/glos-chap.html
 ## WhitePapers
 - AWS Pricing Overview
 - Overview of AWS
@@ -51,7 +68,7 @@ Please review your instance launch details. You can go back to edit changes for 
 - Total (Non) Cost of Ownership of the Cloud)(TCO) of Cloud
 - AWS Well Archicted Framework
 
-Rereference: 
-https://docs.aws.amazon.com/efs/latest/ug/gs-step-one-create-ec2-resources.html
-https://d0.awsstatic.com/whitepapers/aws-overview.pdf
-https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
+Overview
+- https://docs.aws.amazon.com/efs/latest/ug/gs-step-one-create-ec2-resources.html
+- https://d0.awsstatic.com/whitepapers/aws-overview.pdf
+- https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
