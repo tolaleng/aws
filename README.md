@@ -64,8 +64,9 @@ AWS Guides:
 - AWS Glossary http://docs.aws.amazon.com/general/latest/gr/glos-chap.html
 
 ### WhitePapers
-- AWS Pricing Overview
-- Overview of AWS
+- AWS Elastic Cloud Compute https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
+- AWS Pricing Overview   https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
+- Overview of AWS https://d0.awsstatic.com/whitepapers/aws-overview.pdf
 - AWS Best practice Whitepaper
 - Total (Non) Cost of Ownership of the Cloud)(TCO) of Cloud
 - AWS Well Archicted Framework
